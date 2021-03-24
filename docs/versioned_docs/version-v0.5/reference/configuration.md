@@ -39,6 +39,8 @@ identity:
   ## JSON Schema URL for default identity traits ##
   #
   # Path to the JSON Schema which describes a default identity's traits.
+  # 
+  # Can be identified by with id of "default" 
   #
   # Examples:
   # - file://path/to/identity.traits.schema.json
